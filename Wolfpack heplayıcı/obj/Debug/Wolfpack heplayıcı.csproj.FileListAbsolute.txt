@@ -1,0 +1,15 @@
+D:\Visual Stadia Proje\Wolfpack heplayıcı\Wolfpack heplayıcı\bin\Debug\Wolfpack heplayıcı.exe.config
+D:\Visual Stadia Proje\Wolfpack heplayıcı\Wolfpack heplayıcı\bin\Debug\Wolfpack heplayıcı.exe
+D:\Visual Stadia Proje\Wolfpack heplayıcı\Wolfpack heplayıcı\bin\Debug\Wolfpack heplayıcı.pdb
+D:\Visual Stadia Proje\Wolfpack heplayıcı\Wolfpack heplayıcı\obj\Debug\Wolfpack heplayıcı.csproj.AssemblyReference.cache
+D:\Visual Stadia Proje\Wolfpack heplayıcı\Wolfpack heplayıcı\obj\Debug\Wolfpack heplayıcı.csproj.SuggestedBindingRedirects.cache
+D:\Visual Stadia Proje\Wolfpack heplayıcı\Wolfpack heplayıcı\obj\Debug\Wolfpack_heplayıcı.Form1.resources
+D:\Visual Stadia Proje\Wolfpack heplayıcı\Wolfpack heplayıcı\obj\Debug\Wolfpack_heplayıcı.Properties.Resources.resources
+D:\Visual Stadia Proje\Wolfpack heplayıcı\Wolfpack heplayıcı\obj\Debug\Wolfpack heplayıcı.csproj.GenerateResource.cache
+D:\Visual Stadia Proje\Wolfpack heplayıcı\Wolfpack heplayıcı\obj\Debug\Wolfpack heplayıcı.csproj.CoreCompileInputs.cache
+D:\Visual Stadia Proje\Wolfpack heplayıcı\Wolfpack heplayıcı\obj\Debug\Wolfpack heplayıcı.exe
+D:\Visual Stadia Proje\Wolfpack heplayıcı\Wolfpack heplayıcı\obj\Debug\Wolfpack heplayıcı.pdb
+D:\Visual Stadia Proje\Wolfpack heplayıcı\Wolfpack heplayıcı\bin\Debug\Wolfpack heplayıcı.exe.manifest
+D:\Visual Stadia Proje\Wolfpack heplayıcı\Wolfpack heplayıcı\bin\Debug\Wolfpack heplayıcı.application
+D:\Visual Stadia Proje\Wolfpack heplayıcı\Wolfpack heplayıcı\obj\Debug\Wolfpack heplayıcı.exe.manifest
+D:\Visual Stadia Proje\Wolfpack heplayıcı\Wolfpack heplayıcı\obj\Debug\Wolfpack heplayıcı.application
