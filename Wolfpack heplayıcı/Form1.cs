@@ -22,7 +22,7 @@ namespace Wolfpack_heplayıcı
             {
                 if (textBox1.Text != "" && textBox2.Text != "")
                 {
-                    float hedef = float.Parse(textBox1.Text), periskop = float.Parse(textBox2.Text)/10, mesafe = 0;
+                    float hedef = float.Parse(textBox1.Text), periskop = float.Parse(textBox2.Text), mesafe = 0;
                     if (radioButton1.Checked == true)
                     {
                         mesafe = (hedef / periskop) * 4;
@@ -31,7 +31,7 @@ namespace Wolfpack_heplayıcı
                     {
                         mesafe = (hedef / periskop);
                     }
-                    label3.Text = mesafe/10 + "hm";
+                    label3.Text = mesafe + "hm";
                     label4.Text = (mesafe) + "km";
                 }
             } 
